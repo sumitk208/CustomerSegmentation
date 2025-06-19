@@ -1,4 +1,4 @@
-﻿# CipherSchools-Project
+﻿# Customer Segmentation Project
 # Insights Report
 
 ## Introduction
